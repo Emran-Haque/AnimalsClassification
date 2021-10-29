@@ -70,6 +70,8 @@ public class MainActivity extends AppCompatActivity {
     Button btnClassify;
     TextView prediction;
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
